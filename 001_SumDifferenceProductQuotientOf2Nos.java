@@ -13,7 +13,7 @@ class SumDifferenceProductQuotientOf2Nos {
         int secondNum = scanner.nextInt();
 
         int sum = firstNum + secondNum;
-        int diff = Math.abs(firstNum - secondNum);
+        int diff = firstNum - secondNum;
         int product = firstNum * secondNum;
         int quotient = firstNum/secondNum;
 
