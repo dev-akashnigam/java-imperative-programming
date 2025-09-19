@@ -1,3 +1,5 @@
+// Convert temperature between Celsius, Fahrenheit, and Kelvin.
+
 import java.util.Scanner;
 class CelciusFahrenheitKelvinConversion {
     public static void main(String args[]) {
